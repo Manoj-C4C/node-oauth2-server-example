@@ -1,5 +1,5 @@
 applications:
 - name: oauth-service
-  command: node server.js
+  command: node app.js
   memory: 512M
   buildpack: sdk-for-nodejs
